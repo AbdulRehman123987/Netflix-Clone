@@ -2,7 +2,7 @@
 
 A full-stack Netflix Clone built with the **MERN stack**, **Firebase Authentication**, and **TMDB API** to fetch movies. Users can browse movies, watch trailers via **YouTube**, and enjoy a clean, responsive UI just like the original Netflix.
 
-![App Screenshot](https://drive.google.com/file/d/1FA31-UfcsobMkqH-itIVSjh-GXs-CM95/view?usp=sharing) <!-- Replace with your actual app screenshot -->
+![App Screenshot](https://drive.google.com/file/d/1FA31-UfcsobMkqH-itIVSjh-GXs-CM95/view) <!-- Replace with your actual app screenshot -->
 
 ---
 
