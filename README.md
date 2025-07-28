@@ -1,2 +1,76 @@
-# Netflix-Clone
-🎬 Netflix Clone (MERN + Firebase) Welcome to the Netflix Clone – a full-featured movie streaming web app built with the MERN stack (MongoDB, Express, React, Node.js), integrated with Firebase Auth for secure login and YouTube trailers for movie previews.  🔥 Inspired by Netflix. Built for learning. Powered by modern technologies.
+# 🎬 Netflix Clone | MERN + Firebase + YouTube Trailer
+
+A full-stack Netflix Clone built with the **MERN stack**, **Firebase Authentication**, and **TMDB API** to fetch movies. Users can browse movies, watch trailers via **YouTube**, and enjoy a clean, responsive UI just like the original Netflix.
+
+![App Screenshot](https://i.imgur.com/xyz1234.png) <!-- Replace with your actual app screenshot -->
+
+---
+
+## 🌐 Live Demo
+
+🚀 [Frontend on Vercel](https://your-frontend-url.vercel.app)  
+🔗 [Backend on Render](https://your-backend-url.onrender.com)
+
+---
+
+## 🧰 Tech Stack
+
+### 🖥️ Frontend
+
+- React.js (Vite)
+- Redux Toolkit
+- Axios
+- Tailwind CSS
+- React Router DOM
+
+### 🧠 Backend
+
+- Node.js
+- Express.js
+- MongoDB (Cloud - Atlas)
+- Mongoose
+
+### 🔐 Authentication
+
+- Firebase Auth (Email & Password, Google Login)
+
+### 🎞️ APIs & Tools
+
+- TMDB (The Movie Database API)
+- YouTube Trailer Search
+- React Player
+
+---
+
+## 🚀 Features
+
+- 🔐 **User Authentication** (Login / Register)
+- 🧑‍💼 Google Sign-In with Firebase
+- 🎥 Browse Latest Movies & TV Shows
+- 🔎 Search Movies Instantly
+- ❤️ Add/Remove Favorites (with MongoDB)
+- ▶️ **Play Official Movie Trailers** from YouTube
+- 📱 Fully Responsive on All Devices
+- 🌙 Dark Mode Netflix Theme
+- ⚡ Super-fast UI with Vite
+
+---
+
+## 📂 Folder Structure
+
+```bash
+project/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── redux/
+│   └── ...
+└── backend/
+    ├── src/
+        ├── controllers/
+        ├── models/
+        ├── routes/
+        └── server.js
+```
